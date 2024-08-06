@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Echo Music")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f9bb7ba8e06e363a47102ad2bc5db0941bd772f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2a1387e22762ddfd36f77f838fed92b9110c10a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Echo Music")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Echo Music")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
